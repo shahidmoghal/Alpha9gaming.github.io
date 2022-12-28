@@ -1,0 +1,43 @@
+.mainlogo{
+    position: absolute;
+    top: 15%;
+    left: 43%;
+
+}
+
+#welcome{
+   width:auto;
+   padding-top: 15px;
+   font-size: 3.2rem;
+   color: aliceblue;
+   background-color: black;
+   padding-bottom: 2%;
+   text-align: center;
+  
+
+}
+
+h3{
+    width: 100px;
+}
+
+h2{
+    text-align: center;
+}
+
+.brawll{
+
+    position: relative;
+    margin-left: -250px;
+    width:800px;
+    height:400px;
+}
+
+#last{
+    background-color: black;
+
+
+}
+html{
+    scroll-behavior: smooth;
+}
