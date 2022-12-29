@@ -1,6 +1,6 @@
 .mainlogo{
      position: absolute;
-     top: 14% ;
+     top: 17% ;
      
      left: 43%; 
      width:14%;
@@ -45,4 +45,7 @@ h2{
 }
 html{
     scroll-behavior: smooth;
+}
+.div1{
+    position: relative;
 }
